@@ -19,12 +19,6 @@
 
 We welcome contributions from the community! To contribute, please refer to our [Contribution Guide](link_to_guide).
 
-## Team
-
-- **[Member Name 1](link_to_profile_1)** : Role or description.
-- **[Member Name 2](link_to_profile_2)** : Role or description.
-- **[Member Name 3](link_to_profile_3)** : Role or description.
-
 ## Resources
 
 - [Documentation](link_to_documentation)
