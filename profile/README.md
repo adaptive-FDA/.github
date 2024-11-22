@@ -1,7 +1,5 @@
 # Adaptive Functional Data Analysis
 
-# Organization Name
-
 `![Organization Logo](url_to_logo)`
 
 ## About
