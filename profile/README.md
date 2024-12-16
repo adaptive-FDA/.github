@@ -8,10 +8,13 @@
 
 ## Key Projects
 
-- Répo Quick-Start
-- _Répo liés aux publications?_
-- _Répo Package R?_
-- _Répo Exemple?_
+To begin with, a [Quick-Start](https://github.com/adaptive-FDA/quick-start) and the list of [scientific papers](https://hassan.maissoro.com/publications/).
+
+
+Git repositories linked to papers:
+
+- [Hassan Maissoro, Valentin Patilea, and Myriam Vimond. Adaptive Estimation for Weakly Dependent Functional Time Series. 2024.](https://github.com/hmaissoro/Adaptive_Estimation_for_Weakly_Dependent_FTS)
+- In coming...
 
 ## How to Contribute
 
@@ -37,5 +40,5 @@ Join our community on [Forum](link_to_forum) or [Discussion Channel](link_to_cha
 
 ## Contact
 
-For any questions, please contact us at [email@example.com](mailto:email@example.com).
+For any questions, please contact us at [mailto:maissorohassan@gmail.com](mailto:maissorohassan@gmail.com).
 
